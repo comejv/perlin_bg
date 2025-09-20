@@ -1,0 +1,8 @@
+build/
+main
+main_cli
+*.gif
+*.webp
+*.webm
+*.mp4
+.cache/

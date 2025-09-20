@@ -1,0 +1,21 @@
+[
+  {
+    "arguments": [
+      "/nix/store/95k9rsn1zsw1yvir8mj824ldhf90i4qw-gcc-wrapper-14.3.0/bin/gcc",
+      "-O3",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-fopenmp",
+      "-isystem",
+      "external/",
+      "-c",
+      "-o",
+      "build/main_cli.o",
+      "src/main_cli.c"
+    ],
+    "directory": "/home/comev/Documents/perlinbg",
+    "file": "/home/comev/Documents/perlinbg/src/main_cli.c",
+    "output": "/home/comev/Documents/perlinbg/build/main_cli.o"
+  }
+]
